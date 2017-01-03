@@ -1,0 +1,51 @@
+
+#footer {
+  color: #fff;
+  background-color: #1f2125;
+    }
+#typed {
+  font-family: "Consolas";
+  font-weight: bold;
+  font-size: 3em;
+}
+
+.ima
+{
+	background-size: cover;	
+	width: 100%;
+	height: 500px;
+	z-index: -2;
+}
+
+.btn a
+{
+	color: #fff;
+}
+
+.btn {
+
+}
+
+.btn:hover {
+  background: #0000ff;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #0000ff;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+#background {
+  background-image: url(http://www.regiando.com/wp-content/uploads/2016/05/tigres-rayados.jpg);
+}
