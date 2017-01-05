@@ -1,4 +1,7 @@
 
+body { 
+  background-color:   #D8D8D8;
+ }
 #footer {
   color: #fff;
   background-color: #1f2125;
@@ -23,6 +26,7 @@
 }
 
 .btn {
+    margin: 2% 0%;
 
 }
 
